@@ -9,3 +9,6 @@
 [Understand MVC/UI design pattern](https://www.youtube.com/watch?v=U9x-EaeJDuE)
 
 [Implement your own React](https://github.com/pomber/didact)
+
+Find diffrence between async/defered/
+
