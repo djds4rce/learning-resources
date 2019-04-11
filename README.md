@@ -14,3 +14,5 @@ Find diffrence between async/defered/
 
 https://www.youtube.com/watch?v=_MAD4Oly9yg
 
+understand html streaming.
+
